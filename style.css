@@ -1,0 +1,40 @@
+.section1{
+    
+   border: 1px solid black;
+   padding:5px;
+}
+h1{
+    text-decoration: underline;
+    margin:10px;
+}
+p{
+    display:block;
+    margin-top:12px;
+    
+    margin-bottom: 20px;
+}
+.section2{
+    margin-top:12px;
+    padding:5px;
+}
+.section1 a{
+    text-decoration: none;
+}
+.section2 a{
+ text-decoration: none;
+}
+.section3{
+    margin-top:12px;
+    margin-left:10px;
+    padding:5px;
+}
+
+
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+body{
+    padding:12px;
+}
